@@ -1,0 +1,24 @@
+1 - Qual nome do tipo de um decimal
+R - float
+2 - Qual o  que é exibido?
+    console.log(10/'1o')
+R - NaN
+3 - Quais metodo do tipo de dado string divide o texto em partes
+R - 
+4 - Qual metodo js que executa codigos em string?
+R - 
+5 - Cite um metodo de filtrar a seguinte string de modo que apenas dados como nome e endereço sejam aproveitados
+    "ANDRE-NASCIMENTO-SALES;12312312-123123;RUA-EUSEBIO-123-B;11233312-3"
+R - 
+6 - De acordo com o codigo:
+    console.log(variavel) Cite 4 modos em que "variavel" pode ser para que exiba false
+    (obs: não use o false literal)
+R - 
+7 - Preencha o _ de modo que exiba true
+    const exprecao = (((false _ true)_(true _ true)) && ( 3 _ 3))
+    exprecao? console.log('Acertou'): console.log('Errou')
+
+8 - Defina hoisting
+R - 
+9 - Qual metodo de inicialização de variaveis é o mais recomendado para constantes?Cite um exemplo
+R -  
